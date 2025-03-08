@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Mouse",
+        "description": "A responsive wireless mouse with an ergonomic design ideal for daily use.",
+        "price": 19.99
+    },
+    {
+        "id": 2,
+        "name": "Bluetooth Keyboard",
+        "description": "A sleek Bluetooth keyboard offering quiet and efficient typing experience.",
+        "price": 49.99
+    },
+    {
+        "id": 3,
+        "name": "USB-C Hub",
+        "description": "Expand your connectivity with this compact and versatile USB-C hub.",
+        "price": 34.99
+    },
+    {
+        "id": 4,
+        "name": "Noise-Cancelling Headphones",
+        "description": "Experience immersive sound with these high-quality noise-cancelling headphones.",
+        "price": 129.99
+    },
+    {
+        "id": 5,
+        "name": "Smartphone Stand",
+        "description": "A sturdy smartphone stand perfect for hands-free viewing and video calls.",
+        "price": 9.99
+    },
+    {
+        "id": 6,
+        "name": "LED Desk Lamp",
+        "description": "An energy-efficient LED desk lamp with adjustable brightness settings.",
+        "price": 39.99
+    },
+    {
+        "id": 7,
+        "name": "Portable Charger",
+        "description": "Keep your devices powered on the go with this compact portable charger.",
+        "price": 24.99
+    },
+    {
+        "id": 8,
+        "name": "Fitness Tracker",
+        "description": "Monitor your health and activity levels with this stylish fitness tracker.",
+        "price": 59.99
+    },
+    {
+        "id": 9,
+        "name": "Action Camera",
+        "description": "Capture your adventures in high-definition with this rugged action camera.",
+        "price": 89.99
+    },
+    {
+        "id": 10,
+        "name": "Gaming Mousepad",
+        "description": "A smooth, large gaming mousepad designed for precision and comfort.",
+        "price": 19.99
+    },
+    {
+        "id": 11,
+        "name": "Laptop Sleeve",
+        "description": "Protect your laptop in style with this slim, durable, and lightweight sleeve.",
+        "price": 29.99
+    },
+    {
+        "id": 12,
+        "name": "Ergonomic Office Chair",
+        "description": "Enjoy ultimate comfort with this adjustable and supportive ergonomic office chair.",
+        "price": 199.99
+    },
+    {
+        "id": 13,
+        "name": "Adjustable Standing Desk",
+        "description": "Transform your workspace with this versatile adjustable standing desk.",
+        "price": 299.99
+    },
+    {
+        "id": 14,
+        "name": "Digital Alarm Clock",
+        "description": "A modern digital alarm clock featuring multiple alarms and a sleek design.",
+        "price": 14.99
+    },
+    {
+        "id": 15,
+        "name": "Smart Home Hub",
+        "description": "Control your smart devices seamlessly with this intuitive smart home hub.",
+        "price": 79.99
+    },
+    {
+        "id": 16,
+        "name": "Wireless Earbuds",
+        "description": "Enjoy crystal-clear sound and long battery life with these compact wireless earbuds.",
+        "price": 49.99
+    },
+    {
+        "id": 17,
+        "name": "Portable Bluetooth Speaker",
+        "description": "Deliver high-quality audio anywhere with this rugged, portable Bluetooth speaker.",
+        "price": 39.99
+    },
+    {
+        "id": 18,
+        "name": "Smart LED Light Bulb",
+        "description": "Customize your home lighting with this energy-efficient smart LED light bulb.",
+        "price": 12.99
+    },
+    {
+        "id": 19,
+        "name": "Home Security Camera",
+        "description": "Keep an eye on your home with this easy-to-install, high-definition security camera.",
+        "price": 59.99
+    },
+    {
+        "id": 20,
+        "name": "Robot Vacuum Cleaner",
+        "description": "Automate your cleaning routine with this efficient and smart robot vacuum cleaner.",
+        "price": 249.99
+    },
+    {
+        "id": 21,
+        "name": "Electric Toothbrush",
+        "description": "Achieve a superior clean with this rechargeable electric toothbrush featuring multiple modes.",
+        "price": 34.99
+    },
+    {
+        "id": 22,
+        "name": "Hair Dryer",
+        "description": "Fast-drying hair dryer with adjustable heat settings to suit all hair types.",
+        "price": 29.99
+    },
+    {
+        "id": 23,
+        "name": "Ceramic Coffee Mug",
+        "description": "Enjoy your morning brew in this stylish ceramic mug with a comfortable handle.",
+        "price": 9.99
+    },
+    {
+        "id": 24,
+        "name": "Insulated Travel Mug",
+        "description": "Keep beverages hot or cold on the move with this durable insulated travel mug.",
+        "price": 19.99
+    },
+    {
+        "id": 25,
+        "name": "Wireless Charger",
+        "description": "Charge your devices effortlessly with this sleek and efficient wireless charger.",
+        "price": 15.99
+    },
+    {
+        "id": 26,
+        "name": "Portable Hard Drive",
+        "description": "Store and transfer your files easily with this high-capacity portable hard drive.",
+        "price": 89.99
+    },
+    {
+        "id": 27,
+        "name": "External SSD",
+        "description": "Experience fast data transfer speeds with this reliable and compact external SSD.",
+        "price": 129.99
+    },
+    {
+        "id": 28,
+        "name": "Gaming Keyboard",
+        "description": "A responsive gaming keyboard with customizable backlighting and mechanical keys.",
+        "price": 49.99
+    },
+    {
+        "id": 29,
+        "name": "Mechanical Keyboard",
+        "description": "Premium mechanical keyboard designed for durability and high-performance gaming.",
+        "price": 69.99
+    },
+    {
+        "id": 30,
+        "name": "4K Monitor",
+        "description": "Enjoy stunning visuals on this ultra-high-definition 4K monitor with vibrant colors.",
+        "price": 299.99
+    },
+    {
+        "id": 31,
+        "name": "USB Flash Drive",
+        "description": "A portable USB flash drive offering reliable storage for everyday data needs.",
+        "price": 12.99
+    },
+    {
+        "id": 32,
+        "name": "HDMI Cable",
+        "description": "High-speed HDMI cable ensuring crystal-clear audio and video transmission.",
+        "price": 7.99
+    },
+    {
+        "id": 33,
+        "name": "Ethernet Cable",
+        "description": "Durable Ethernet cable for stable, fast wired internet connections.",
+        "price": 9.99
+    },
+    {
+        "id": 34,
+        "name": "Surge Protector",
+        "description": "Safeguard your electronics with this multi-outlet surge protector.",
+        "price": 14.99
+    },
+    {
+        "id": 35,
+        "name": "Smart Thermostat",
+        "description": "Optimize your home's energy use with this intelligent, easy-to-program smart thermostat.",
+        "price": 199.99
+    },
+    {
+        "id": 36,
+        "name": "Digital Photo Frame",
+        "description": "Showcase your memories in vivid detail with this modern digital photo frame.",
+        "price": 59.99
+    },
+    {
+        "id": 37,
+        "name": "Bluetooth Car Adapter",
+        "description": "Stream music and make hands-free calls with this easy-to-install Bluetooth car adapter.",
+        "price": 19.99
+    },
+    {
+        "id": 38,
+        "name": "Car Phone Mount",
+        "description": "Secure your smartphone with this adjustable and robust car phone mount.",
+        "price": 11.99
+    },
+    {
+        "id": 39,
+        "name": "Dash Cam",
+        "description": "Record your drives with this high-definition dash cam for enhanced safety on the road.",
+        "price": 89.99
+    },
+    {
+        "id": 40,
+        "name": "VR Headset",
+        "description": "Immerse yourself in virtual worlds with this cutting-edge VR headset.",
+        "price": 349.99
+    },
+    {
+        "id": 41,
+        "name": "3D Printer",
+        "description": "Bring your creative ideas to life with this versatile and user-friendly 3D printer.",
+        "price": 499.99
+    },
+    {
+        "id": 42,
+        "name": "Smart Scale",
+        "description": "Track your weight and body composition with this sleek and modern smart scale.",
+        "price": 29.99
+    },
+    {
+        "id": 43,
+        "name": "Portable Air Purifier",
+        "description": "Breathe cleaner air with this compact air purifier perfect for small spaces.",
+        "price": 99.99
+    },
+    {
+        "id": 44,
+        "name": "Smart Plug",
+        "description": "Transform ordinary appliances into smart devices with this WiFi-enabled smart plug.",
+        "price": 12.99
+    },
+    {
+        "id": 45,
+        "name": "Wireless Router",
+        "description": "Experience fast, stable internet with this high-performance wireless router.",
+        "price": 59.99
+    },
+    {
+        "id": 46,
+        "name": "Mesh WiFi System",
+        "description": "Eliminate dead zones with this seamless and reliable mesh WiFi system.",
+        "price": 149.99
+    },
+    {
+        "id": 47,
+        "name": "Gaming Console",
+        "description": "Dive into immersive gaming with this next-generation gaming console.",
+        "price": 399.99
+    },
+    {
+        "id": 48,
+        "name": "Smartwatch",
+        "description": "Stay connected and track your fitness goals with this stylish smartwatch.",
+        "price": 199.99
+    },
+    {
+        "id": 49,
+        "name": "Portable Projector",
+        "description": "Bring the cinema experience anywhere with this compact and powerful portable projector.",
+        "price": 229.99
+    },
+    {
+        "id": 50,
+        "name": "Noise-Cancelling Microphone",
+        "description": "Record crystal-clear audio with this advanced noise-cancelling microphone.",
+        "price": 89.99
+    },
+    {
+        "id": 51,
+        "name": "Wireless Charger Stand",
+        "description": "Charge your device conveniently with this wireless charger stand for your desk or nightstand.",
+        "price": 17.99
+    },
+    {
+        "id": 52,
+        "name": "LED Strip Lights",
+        "description": "Enhance any room's ambiance with these versatile and easy-to-install LED strip lights.",
+        "price": 24.99
+    },
+    {
+        "id": 53,
+        "name": "Digital Drawing Tablet",
+        "description": "Perfect for artists, this digital drawing tablet offers precision and ease of use.",
+        "price": 69.99
+    },
+    {
+        "id": 54,
+        "name": "Portable Solar Charger",
+        "description": "Harness the power of the sun with this eco-friendly portable solar charger.",
+        "price": 49.99
+    },
+    {
+        "id": 55,
+        "name": "Car Vacuum Cleaner",
+        "description": "Keep your car interior spotless with this compact and efficient car vacuum cleaner.",
+        "price": 19.99
+    },
+    {
+        "id": 56,
+        "name": "Dash Cam Pro",
+        "description": "Upgrade your driving safety with this advanced dash cam featuring enhanced recording features.",
+        "price": 129.99
+    },
+    {
+        "id": 57,
+        "name": "Multiport USB Charger",
+        "description": "Charge multiple devices at once with this convenient multiport USB charger.",
+        "price": 29.99
+    },
+    {
+        "id": 58,
+        "name": "Bluetooth Car Diagnostic Tool",
+        "description": "Monitor your car’s performance with this easy-to-use Bluetooth diagnostic tool.",
+        "price": 59.99
+    },
+    {
+        "id": 59,
+        "name": "Action Camera Mount",
+        "description": "Secure your action camera in any situation with this adjustable and sturdy mount.",
+        "price": 14.99
+    },
+    {
+        "id": 60,
+        "name": "Wireless Earphone Case",
+        "description": "Protect and carry your wireless earphones in this sleek, durable case.",
+        "price": 9.99
+    },
+    {
+        "id": 61,
+        "name": "Smart Doorbell",
+        "description": "Enhance home security with this smart doorbell featuring motion detection and instant alerts.",
+        "price": 99.99
+    },
+    {
+        "id": 62,
+        "name": "Waterproof Bluetooth Speaker",
+        "description": "Enjoy your music outdoors with this rugged and waterproof Bluetooth speaker.",
+        "price": 39.99
+    },
+    {
+        "id": 63,
+        "name": "Electric Kettle",
+        "description": "Boil water quickly and safely with this energy-efficient electric kettle.",
+        "price": 29.99
+    },
+    {
+        "id": 64,
+        "name": "Espresso Machine",
+        "description": "Brew rich, barista-quality espresso at home with this compact espresso machine.",
+        "price": 249.99
+    },
+    {
+        "id": 65,
+        "name": "Air Fryer",
+        "description": "Enjoy healthier meals with this versatile and easy-to-use air fryer.",
+        "price": 99.99
+    },
+    {
+        "id": 66,
+        "name": "Instant Pot",
+        "description": "A multi-functional instant pot perfect for pressure cooking, slow cooking, and more.",
+        "price": 89.99
+    },
+    {
+        "id": 67,
+        "name": "Robot Lawn Mower",
+        "description": "Automate your lawn care with this efficient robot lawn mower designed for busy households.",
+        "price": 799.99
+    },
+    {
+        "id": 68,
+        "name": "Compact Dishwasher",
+        "description": "Save space and energy with this modern compact dishwasher featuring advanced cleaning modes.",
+        "price": 399.99
+    },
+    {
+        "id": 69,
+        "name": "Refrigerator Organizer",
+        "description": "Keep your fridge neat and organized with this adjustable refrigerator organizer.",
+        "price": 19.99
+    },
+    {
+        "id": 70,
+        "name": "Kitchen Knife Set",
+        "description": "Enhance your culinary skills with this high-quality, precision-engineered kitchen knife set.",
+        "price": 59.99
+    },
+    {
+        "id": 71,
+        "name": "Non-Stick Frying Pan",
+        "description": "Cook with ease using this non-stick frying pan designed for everyday meals.",
+        "price": 24.99
+    },
+    {
+        "id": 72,
+        "name": "Cast Iron Skillet",
+        "description": "A classic cast iron skillet that delivers even heat distribution for perfect cooking.",
+        "price": 34.99
+    },
+    {
+        "id": 73,
+        "name": "Ceramic Baking Dish",
+        "description": "Bake delicious dishes in this stylish and durable ceramic baking dish.",
+        "price": 29.99
+    },
+    {
+        "id": 74,
+        "name": "Digital Food Thermometer",
+        "description": "Ensure your meals are cooked to perfection with this precise digital food thermometer.",
+        "price": 14.99
+    },
+    {
+        "id": 75,
+        "name": "Stainless Steel Cookware",
+        "description": "Cook like a pro with this premium stainless steel cookware set built for performance.",
+        "price": 89.99
+    },
+    {
+        "id": 76,
+        "name": "Electric Grill",
+        "description": "Grill indoors with ease using this efficient and portable electric grill.",
+        "price": 129.99
+    },
+    {
+        "id": 77,
+        "name": "Slow Cooker",
+        "description": "Prepare hearty, comforting meals with this reliable and easy-to-use slow cooker.",
+        "price": 49.99
+    },
+    {
+        "id": 78,
+        "name": "Blender",
+        "description": "Effortlessly blend smoothies and soups with this powerful and versatile blender.",
+        "price": 39.99
+    },
+    {
+        "id": 79,
+        "name": "Juicer",
+        "description": "Extract fresh juice from fruits and vegetables with this efficient and easy-to-clean juicer.",
+        "price": 59.99
+    },
+    {
+        "id": 80,
+        "name": "Stand Mixer",
+        "description": "Achieve baking perfection with this versatile and powerful stand mixer.",
+        "price": 299.99
+    },
+    {
+        "id": 81,
+        "name": "Vacuum Sealer",
+        "description": "Extend the shelf-life of your food with this user-friendly vacuum sealer.",
+        "price": 69.99
+    },
+    {
+        "id": 82,
+        "name": "Sous Vide Cooker",
+        "description": "Cook restaurant-quality meals at home with this precision sous vide cooker.",
+        "price": 79.99
+    },
+    {
+        "id": 83,
+        "name": "Air Purifier",
+        "description": "Clean the air in your home with this efficient air purifier that removes allergens and pollutants.",
+        "price": 149.99
+    },
+    {
+        "id": 84,
+        "name": "Humidifier",
+        "description": "Maintain optimal humidity levels with this quiet and efficient humidifier.",
+        "price": 39.99
+    },
+    {
+        "id": 85,
+        "name": "Dehumidifier",
+        "description": "Reduce moisture and prevent mold with this high-capacity dehumidifier ideal for large rooms.",
+        "price": 99.99
+    },
+    {
+        "id": 86,
+        "name": "Portable Fan",
+        "description": "Stay cool on the go with this compact and energy-efficient portable fan.",
+        "price": 24.99
+    },
+    {
+        "id": 87,
+        "name": "Heated Blanket",
+        "description": "Experience cozy warmth during chilly nights with this soft, energy-efficient heated blanket.",
+        "price": 49.99
+    },
+    {
+        "id": 88,
+        "name": "Memory Foam Pillow",
+        "description": "Improve your sleep quality with this comfortable memory foam pillow that conforms to your head and neck.",
+        "price": 29.99
+    },
+    {
+        "id": 89,
+        "name": "Weighted Blanket",
+        "description": "Enhance relaxation and reduce stress with this calming weighted blanket.",
+        "price": 89.99
+    },
+    {
+        "id": 90,
+        "name": "Hypoallergenic Duvet Cover",
+        "description": "Sleep soundly with this soft, breathable, and hypoallergenic duvet cover.",
+        "price": 59.99
+    },
+    {
+        "id": 91,
+        "name": "Cotton Sheet Set",
+        "description": "Enjoy the ultimate softness and durability with this premium cotton sheet set.",
+        "price": 79.99
+    },
+    {
+        "id": 92,
+        "name": "Memory Foam Mattress Topper",
+        "description": "Upgrade your sleep comfort with this plush memory foam mattress topper.",
+        "price": 129.99
+    },
+    {
+        "id": 93,
+        "name": "Adjustable Bed Base",
+        "description": "Enhance your nighttime comfort with this versatile adjustable bed base featuring multiple positions.",
+        "price": 499.99
+    },
+    {
+        "id": 94,
+        "name": "Ergonomic Pillow",
+        "description": "Support your neck and spine with this ergonomically designed pillow for optimal rest.",
+        "price": 24.99
+    },
+    {
+        "id": 95,
+        "name": "Travel Pillow",
+        "description": "Relax during your journeys with this soft and supportive travel pillow.",
+        "price": 19.99
+    },
+    {
+        "id": 96,
+        "name": "Portable Luggage Scale",
+        "description": "Avoid excess baggage fees with this accurate and compact portable luggage scale.",
+        "price": 14.99
+    },
+    {
+        "id": 97,
+        "name": "RFID Travel Wallet",
+        "description": "Keep your essentials secure with this RFID-blocking travel wallet designed for modern travelers.",
+        "price": 19.99
+    },
+    {
+        "id": 98,
+        "name": "Packing Cubes",
+        "description": "Organize your suitcase effortlessly with these durable and versatile packing cubes.",
+        "price": 24.99
+    },
+    {
+        "id": 99,
+        "name": "Waterproof Suitcase Cover",
+        "description": "Protect your luggage from the elements with this robust waterproof suitcase cover.",
+        "price": 14.99
+    },
+    {
+        "id": 100,
+        "name": "Travel Adapter Set",
+        "description": "Stay connected globally with this universal travel adapter set compatible with outlets around the world.",
+        "price": 29.99
+    }
+]

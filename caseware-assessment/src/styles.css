@@ -1,1 +1,49 @@
-/* You can add global styles to this file, and also import other style files */
+
+
+/* @import './custom-theme.scss'; */
+
+html, body {
+   height: 100%; 
+   transition: background-color 0.7s ease, color 0.7s ease;
+}
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.dark-mode {
+  background-color: #121212;
+  color: black;
+}
+
+
+.dark-mode .mat-slide-toggle-label {
+  color: #e0e0e0;
+  transition: color 0.3s ease;
+}
+
+
+
+.dark-mode .mat-card.product-card {
+  background-color: #2a2a2a !important;
+  transition: background-color 0.3s ease;
+  color: #e0e0e0;
+}
+
+.dark-mode .mat-card {
+  background: #1e1e1e;
+  color: #e0e0e0;
+}
+
+
+.dark-mode .mat-raised-button {
+  background-color: #f56354 !important; 
+  color: #fff !important;
+}
+
+.dark-mode .mat-card-header {
+  background: #2d2d2d;
+  border-bottom: 1px solid #444;
+}
+
+.dark-mode .mat-select-panel {
+  background: #2d2d2d;
+  color: #e0e0e0;
+}

@@ -1,0 +1,25 @@
+.product-detail {
+  max-width: 600px;
+  margin: 50px auto;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  padding: 20px;
+}
+
+
+.mat-card-header {
+  background: #f9f9f9;
+  border-bottom: 1px solid #eee;
+}
+
+
+.mat-card-title {
+  font-size: 1.75rem;
+  font-weight: 600;
+}
+
+
+.mat-card-content p {
+  font-size: 1rem;
+  margin: 0.5rem 0;
+}
